@@ -1,0 +1,25 @@
+{
+    "name": "berdidajohnlouise/codingtest",
+    "description": "Coding Exam for MessageMedia",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "8.5.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodingTest\\": "app/CodingTest"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CodingTest\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Berdidajohnlouise"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

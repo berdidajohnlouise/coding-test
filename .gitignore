@@ -1,0 +1,4 @@
+/vendor/
+/build/
+/images/
+composer.lock
