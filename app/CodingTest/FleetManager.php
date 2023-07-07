@@ -2,6 +2,8 @@
 namespace CodingTest;
 
 use CodingTest\Fleet;
+use CodingTest\SupportCraft;
+use CodingTest\OffensiveCraft;
 use CodingTest\Traits\FleetHelper;
 
 /**
