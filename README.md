@@ -1,5 +1,10 @@
 # PHP Test For Messagemedia
 
+- Install dependency first.
+```bash
+$ composer install
+```
+
 - In order to run test. If make tools is present we can use make command to run the test.
 ```bash
 $ make
